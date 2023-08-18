@@ -28,3 +28,28 @@ body {
 .titulo span {
     font-size: 2rem;
 }
+
+.contenedor{
+    width: 120rem;
+
+    /* margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto; */
+
+    margin: 0px auto;
+
+
+}
+
+.nav-bg{
+    background-color: var(--secundario);
+}
+
+.navegacion-principal{
+    
+}
+
+.navegacion-principal a {
+    background-color: var(--primario);
+}
