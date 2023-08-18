@@ -19,3 +19,9 @@ https://www.linkedin.com/in/nestor-leandro-bertero-a7a24744/
 ## FORMACIÓN INICIAL EN LA PROGRAMACIÓN WEB
 https://64defdbee671460c97212f3b--fascinating-biscotti-184b4f.netlify.app/
 
+
+## MI PORTFOLIO PERSONAL
+Haciendo click, en el siguiente enlace:
+
+(En construcción):
+
