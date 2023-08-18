@@ -10,3 +10,7 @@ Sección-5: Sitio Freelancer, creando un proyecto paso a paso en html
 Sección-6: Sitio Freelancer, creando un proyecto paso a paso en CSS
 Sección-7: 
 
+
+## SI QUERÉS SABER MAS DE MI O CONTACTARME, PODES HACERLO AL SIGUIENTE ENLACE
+https://www.linkedin.com/in/nestor-leandro-bertero-a7a24744/
+
