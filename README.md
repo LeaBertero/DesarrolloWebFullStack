@@ -14,3 +14,8 @@ Sección-7:
 ## SI QUERÉS SABER MAS DE MI O CONTACTARME, PODES HACERLO AL SIGUIENTE ENLACE
 https://www.linkedin.com/in/nestor-leandro-bertero-a7a24744/
 
+
+
+## PODES VER EN EL SIGUIENTE ENLACE MISTRABAJOS INICIALES EN LA PROGRAMACIÓN WEB
+https://64defdbee671460c97212f3b--fascinating-biscotti-184b4f.netlify.app/
+
