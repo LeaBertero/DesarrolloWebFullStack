@@ -11,13 +11,20 @@
 }
 
 html {
+    box-sizing: border-box;
     font-size: 62.5%
+    
+}
+
+* ,*:before, *:after{
+    box-sizing: inherit;
 }
 
 body {
     font-size: 16px;
     /*1rem = 10px*/
     font-family: 'Krub', sans-serif;
+    
 }
 
 /* titulo principal */
@@ -106,6 +113,8 @@ body {
     background-image: url(../imagenes/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 410px;
+    padding: 20px;
 }
 
 /* @media (min-width: 768px){
