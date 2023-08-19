@@ -64,13 +64,13 @@ body {
     /* padding: 1rem; */
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 /* breackpoint o punto de quiebre*/
 @media (min-width: 768px){
     .navegacion-principal{
         flex-direction: row;
+        justify-content: space-between;
     }
 }
 
@@ -102,7 +102,11 @@ body {
     
 }
 
-
+.hero{
+    background-image: url(../imagenes/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 /* @media (min-width: 768px){
     body{
