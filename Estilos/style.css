@@ -85,6 +85,20 @@ h1,h2,h3{
     margin: 0px auto;
 }
 
+.boton-contactar{
+    background-color: var(--secundario);
+    color: var(--blanco);
+    padding: 1rem 3rem;
+    margin-top: 1rem;
+    font-size: 2rem; /* equivalente a 20px*/
+    text-decoration: none;
+    font-weight: bolder;
+    border-radius: 10px;
+    text-shadow: 2px 5px 3px var(--oscuro);
+    box-shadow: 2px 5px 3px  var(--blanco);
+    text-transform: uppercase;
+}
+
 .nav-bg{
     background-color: var(--secundario);
 }
@@ -169,6 +183,8 @@ h1,h2,h3{
     display: flex;
     align-items: flex-end;
 }
+
+
 
 
 
