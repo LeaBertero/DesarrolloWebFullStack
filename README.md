@@ -8,8 +8,7 @@ Sección-3: Como sacar máximo provecho a este curso?
 Sección-4: Editores de texto Ide's y mucho más
 Sección-5: Sitio Freelancer, creando un proyecto paso a paso en html
 Sección-6: Sitio Freelancer, creando un proyecto paso a paso en CSS
-Sección-7: 
-
+Sección-7: FRONT-END STORE: creando un segundo proyecto con Html y Css
 
 ## SI QUERÉS SABER MAS DE MI O CONTACTARME, PODES HACERLO AL SIGUIENTE ENLACE
 https://www.linkedin.com/in/nestor-leandro-bertero-a7a24744/
