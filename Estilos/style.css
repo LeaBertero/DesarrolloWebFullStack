@@ -122,19 +122,27 @@ h3 {
     
     margin: 0px auto;
     /* display: flex; */
+    /* background-color: red; */
 
 }
 
 .parrafo {
     display: flex;
     justify-content: center;
+    border: 2px solid black;
+    border-radius: 1rem;
+    box-shadow: 10px -6px 11px -3px gray;
+    /* -moz-box-shadow: 10px -6px 11px -3px rgba(230,250,15,1);
+    box-shadow: 10px -6px 11px -3px rgba(230,250,15,1); */
+    font-size: 2rem;
+    /* font-weight:500; */
 }
 
 .boton-contactar {
     background-color: var(--secundario);
     color: var(--blanco);
     padding: 1rem 3rem;
-    margin-top: 1rem;
+    margin-top: 4rem;
     font-size: 2rem;
     /* equivalente a 20px*/
     text-decoration: none;
@@ -319,6 +327,7 @@ p {
     margin: 0 auto;
     padding: 2rem;
     border-radius: 1rem;
+    box-shadow: 10px -6px 11px -3px gray;
 }
 
 .formulario fieldset{
@@ -336,12 +345,32 @@ p {
     font-size: 20px;
 }
 
-/* .contenedor-campos{
-    
-} */
+@media (min-width: 768px){
+    .contenedor-campos{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: auto auto 20rem;
+        column-gap: 1rem;
+    }
+
+    .campo:nth-child(3),
+    .campo:nth-child(4){
+        grid-column: 1 / 3;
+        /* grid-row: 3 / 4; */
+    }
+}
+
+/* color de fondo para el formulario */
+.back-formulario{
+    background-color: var(--primario);
+}
 
 .campo{
     margin-bottom: 1rem; /*1 rem = 10 px*/
+}
+
+.campo textarea{
+    height: 20rem;
 }
 
 .campo label{
@@ -361,3 +390,8 @@ p {
 /* .enviar .boton-contactar{
     width: 100%;
 } */
+
+
+.footer{
+    text-align: center;
+}
