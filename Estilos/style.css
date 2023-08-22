@@ -314,6 +314,7 @@ p {
     width: 15rem;
     background-color: var(--primario);
     border-radius: 50%;
+    border: 10px solid var(--secundario);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
