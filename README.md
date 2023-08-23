@@ -23,6 +23,6 @@ Comencé en el 2020, aprendiendo las estructuras básicas de la progrmación en 
 
 ## MI PORTFOLIO PERSONAL
 Haciendo click, en el siguiente enlace:
+https://kaleidoscopic-marigold-6bf760.netlify.app/
 
-(En construcción):
 
