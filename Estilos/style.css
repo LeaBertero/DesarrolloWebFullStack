@@ -13,8 +13,10 @@
     --grisClaro: #dfe9f3;
 }
 
+/* globales */
 html {
     box-sizing: border-box;
+    scroll-snap-type: y mandatory;
     font-size: 62.5%
 }
 

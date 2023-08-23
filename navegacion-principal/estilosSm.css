@@ -1,0 +1,81 @@
+/* colores personalizados */
+:root {
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #ffc107;
+    --secundario: #0097a7;
+    --gris: #757575;
+    --teal: #20c997;
+    --cyan: #0dcaf0;
+    --grisClaro: #dfe9f3;
+}
+
+/* Enlaces de google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+/* Estilos del fondo */
+.html-back{
+    /* background: linear-gradient(to top left,  gray, yellow); */
+    background-color: var(--cyan);
+}
+
+@media (min-width: 768px){
+    .index{
+        margin: 4rem;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+}
+
+@media (min-width: 768px){
+    .titulo-principal{
+        font-family: 'Indie Flower', cursive;
+        font-weight: bolder;
+        text-align: center;
+        padding: 1rem;
+        font-size: 4rem;
+        border: 4px solid black;
+        width: 46rem;
+        margin-left: 21rem;
+        border-radius: 1rem; 
+        color: var(--blanco);
+        text-shadow: 2px 5px 3px black;
+        box-shadow: 2px 5px 3px whitesmoke;
+    }
+}
+
+@media (min-width: 768px){
+    .parrafo{
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 768px){
+    .principal{
+        background-color: var(--primario);
+        text-align: center;
+        border: 3px solid var(--gris);
+        border-radius: 1rem;
+        /* padding-top: 1rem; */
+    }
+}
+
+.bold{
+    font-weight: bolder;
+    text-shadow: 2px 5px 3px var(--grisClaro);
+}
+
+@media (min-width: 768px){
+    .home{
+        font-size: 2rem;
+        border: 2px solid black;
+        border-radius: 2rem;
+        padding: 20px;
+        font-weight: bold;
+        color: var(--primario);
+        background-color: var(--blanco);
+        text-shadow: 2px 5px 3px var(--oscuro);
+    }
+}
+
+
