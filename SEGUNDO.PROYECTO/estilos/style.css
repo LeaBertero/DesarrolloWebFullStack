@@ -44,6 +44,7 @@ img{
 .contenedor{
     max-width: 120rem;
     margin: 0 auto;
+    /* text-transform: uppercase; */
 }
 
 h1,h2,h3{
@@ -72,6 +73,19 @@ h3{
     justify-content: center;
 }
 
+/* footer */
+.footer{
+    background-color: var(--primarioOscuro);
+    padding: 1rem 0px;
+    margin-top: 2rem; 
+}
+
+.footer__texto{
+    font-family: var(--fuentePrincipal);
+    text-align: center;
+    font-size: 2.2rem;
+}
+
 .header__logo{
     margin: 3rem 0;
 }
@@ -82,7 +96,7 @@ h3{
     padding: 1rem 0;
     display: flex;
     justify-content: center;
-    gap: 2rem;
+    gap: 2rem; /*Nueva forma de separación*/
 }
 
 .navegacion__enlace{
