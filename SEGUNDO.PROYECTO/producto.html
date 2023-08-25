@@ -9,7 +9,7 @@
     <title>Tienda de ropa (FrontEnd-Store)</title>
 
     <!-- archivo css de estilos -->
-    <link rel="stylesheet" href="../estilos/style.css">
+    <link rel="stylesheet" href="./estilos/style.css">
 
     <!-- archivo de css (Normalize) -->
     <link rel="stylesheet" href="../estilos/normalize.css">
@@ -19,8 +19,8 @@
 <body>
 
     <header class="header">
-        <a href="../index.html">
-            <img class="header__logo" src="../imagenes/logo.png" alt="logo">
+        <a href="./index.html">
+            <img class="header__logo" src="./imagenes/logo.png" alt="logo">
         </a>
     </header>
 
@@ -30,7 +30,43 @@
     </nav>
 
     <main class="contenedor">
-        <h1>Producto</h1>
+        
+        <h1>ReactJS</h1>
+
+        <div class="camisa">
+            
+            <img class="camisa__imagen" src="./imagenes/3.jpg" alt="Imagen del producto">
+
+            <div class="cammisa__contenido">
+                
+                <p>
+                    Nunc efficitur risus a purus congue, finibus faucibus lorem eleifend. Nulla vitae semper erat. Mauris in libero molestie, pharetra magna ac, mollis orci. Aliquam erat volutpat. Duis sit amet elit et urna bibendum cursus. Donec lobortis id libero et pellentesque. Integer imperdiet leo at arcu lobortis, in commodo nisi efficitur.
+                </p>
+
+                <form class="formulario" action="">
+                
+                    <select name="" id="">
+                        
+                        <option disabled selected value="">--Seleccione el talle--</option>
+
+                        <option value="">Chica</option>
+                        
+                        <option value="">Mediana</option>
+                        
+                        <option value="">Grande</option>
+                
+                        <input type="number" placeholder="Cantidad" min="1">
+                    
+                    </select>
+
+                    <input type="submit" value="Agregar al carrito">
+                
+                </form>
+
+            </div>
+
+        </div>
+    
     </main>
     
 
