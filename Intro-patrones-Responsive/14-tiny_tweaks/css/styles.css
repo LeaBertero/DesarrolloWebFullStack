@@ -50,3 +50,12 @@ p {
 }
 
 /** CODIGO AQUI **/
+.contenedor{
+    max-width: 120rem;
+    width: 95%;
+    margin: 0 auto;
+}
+
+img{
+    max-width: 100%;
+}
