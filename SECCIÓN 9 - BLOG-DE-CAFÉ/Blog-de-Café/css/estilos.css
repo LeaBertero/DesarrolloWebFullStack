@@ -1,0 +1,93 @@
+/* fuentes de google */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+/* custom properties (Propiedades personalizadas) */
+:root{
+    /* funtes */
+    --fuenteHeading: 'PT Sans', sans-serif;
+    --fuenteParrafos: 'PT Sans', sans-serif;
+
+    /* colores */
+    --primario:#784d3c;
+    --blanco:#ffffff;
+    --negro:#000000;
+}
+
+html{
+    box-sizing: border-box; 
+    font-size: 62.5%;
+}
+
+*,*:before,*:after{
+    box-sizing: inherit; /**/
+}
+
+body{
+    font-family: var(--fuenteParrafos);
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+/* Globales */
+.contenedor{
+    max-width: 120rem;
+    width: 90%;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h2,h3,h4{
+    font-family: var(--fuenteHeading);
+}
+
+h1{
+    font-size: 4.8rem;
+}
+
+h2{
+    font-size: 4rem;
+}
+
+h3{
+    font-size: 3.2rem;
+}
+
+h4{
+    font-size: 2.8rem;
+}
+
+img{
+    max-width: 100%;
+}
+
+/* Utilidades */
+.no-margin{
+    margin: 0;
+}
+
+.no-padding{
+    padding: 0;
+}
+
+.centrar-texto{
+    text-align: center;
+}
+
+/* header */
+.header{
+    background-image: url(../imagenes/banner.jpg); /*imagen cargada desde css*/
+    height: 60rem; /*altura*/
+    background-size: cover; /*toma todo el espacio disponible*/
+    background-repeat: no-repeat; /*permite que no se repita la imagen*/
+    background-position: center center; /*posiciona tanto verticalmente como horizontalmente*/
+}
+
+.header__texto{
+    text-align: center;
+    color: var(--blanco);
+    margin-top: 5rem;
+}
