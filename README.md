@@ -19,6 +19,7 @@ https://www.linkedin.com/in/nestor-leandro-bertero-a7a24744/
 Comencé en el 2020, aprendiendo las estructuras básicas de la progrmación en Pseint, posteriormente pase al lenguaje C# , con Visual Studio 2019 y versiones posteriores, dónde trabajé con formularios windows y entendoendo como funciona la programación orientada a objeto, contunué aprendiendo a manejar todas las herramientas con las que se trabaja, las cuales mensiono a continuación, como por ejemeplo: Github, comandos de github, manejo de ramas dentro de los repositorios, para poder desarrollar software o una pagina web. 
 
 ## PROYECTOS PERSONALES
+https://tiendadeproductos.netlify.app/ (FrontStore - Tienda de produtos)
 
 
 ## MI PORTFOLIO PERSONAL
