@@ -21,6 +21,8 @@ Comencé en el 2020, aprendiendo las estructuras básicas de la progrmación en 
 ## PROYECTOS PERSONALES
 https://tiendadeproductos.netlify.app/ (FrontStore - Tienda de produtos)
 
+https://el-blog-de-cafecba.netlify.app/ (Blog de café)
+
 
 ## MI PORTFOLIO PERSONAL
 Haciendo click, en el siguiente enlace:
