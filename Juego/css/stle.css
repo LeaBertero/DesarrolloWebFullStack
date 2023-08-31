@@ -1,0 +1,15 @@
+.titulo{
+    border: 2px solid red;
+    /* width: 300px; */
+    /* padding: 2rem; */
+    /* text-align: center; */
+    padding: 2rem;
+    /* width: 200px; */
+   margin: 20px 50px ;
+   text-align: center;
+   width: 400px;
+   margin-left: 32rem;
+   background-color: black;
+   color: aliceblue;
+   text-shadow: 2px 5px 3px red;
+}
