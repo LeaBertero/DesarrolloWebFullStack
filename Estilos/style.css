@@ -21,7 +21,8 @@ html {
 }
 
 .header {
-    background-color: var(--cyan);
+    /* background-color: var(--cyan); */
+    background-image: url(../imagenes/code-1839406_1280.jpg);
     padding: 2px;
 }
 
@@ -81,8 +82,10 @@ h3 {
     border: 2px solid black;
     padding: 10px;
     border-radius: 20px;
-    background-color: var(--primario);
-    color: var(--blanco);
+    /* background-color: var(--primario); */
+    background: linear-gradient(to top left, yellow, white, black);
+    color: var(--oscuro);
+    text-shadow: 2px 5px 3px orange;
     /* text-shadow: 2px 3px 5px red; */
     box-shadow: 2px 3px 5px var(--secundario);
     font-weight: bolder;
